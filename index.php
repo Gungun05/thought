@@ -13,5 +13,6 @@
     <a href="#">Thoughts</a>
     <a href="#">About</a>
    </div> 
+   <h1>Welcome to thought of the day!</h1>
 </body>
 </html>
