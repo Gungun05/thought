@@ -11,8 +11,8 @@
    <div id="navbar">
     <a href="index.php">Home</a>
     <a href="#">Thoughts</a>
-    <a href="About.php">About</a>
+    <a href="#">About</a>
    </div> 
-   <h1>Welcome to thought of the day!</h1>
+   <h1 id="about">This page was made by Gungun</h1>
 </body>
 </html>

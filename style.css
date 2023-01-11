@@ -1,6 +1,6 @@
 #navbar
 {
-    background-color: green;
+    background-color: rgb(106,90,205);
 }
 body
 {
@@ -13,6 +13,7 @@ body
     display: inline-block;
     padding: 8px 4px;
     transition: all 0.4s ease;
+
 }
 #navbar a:hover
 {
@@ -21,7 +22,14 @@ body
     
 }
 h1{
-    color: white;
-    background-color: black;
+    color: black;
     text-align: center;
+}
+#about{
+    color: black;
+    text-align: center;
+}
+#navbar{
+    border-style: solid;
+    font-family: Source Sans Pro, sans-serif;
 }
